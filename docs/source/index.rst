@@ -1,22 +1,12 @@
-Welcome to Lumache's documentation!
+ABC8 - Tỷ Lệ Thắng Cao, Giải Thưởng Đặc Biệt
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`ABC8 <https://abc8cba.com/>`_ là nhà cái đẳng cấp với đa dạng trò chơi, tỷ lệ thắng vượt trội và khuyến mãi hấp dẫn. Giao dịch nhanh chóng, bảo mật tuyệt đối và dịch vụ chăm sóc khách hàng chuyên nghiệp. Tham gia ngay!
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Website: https://abc8cba.com/
 
-.. note::
+SĐT: 0387896362
 
-   This project is under active development.
+Địa chỉ: 333 P. Tây Sơn, Ngã Tư Sở, Đống Đa, Hà Nội, Việt Nam
 
-Contents
---------
-
-.. toctree::
-
-   usage
-   api
+#abc8 #abc8com #abc8cbacom #abc8bet
